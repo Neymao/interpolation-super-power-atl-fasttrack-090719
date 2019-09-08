@@ -1,3 +1,4 @@
+#display_rainbow
 # Interpolation Super Power
 
 ## Objectives
